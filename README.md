@@ -43,7 +43,8 @@ A node server allows hot update logics/ data model / timer in runtime, using web
 
 1. Clone本项目
 
-2. ```shell
+2. 进入项目目录
+   ```shell
    cd Server
    npm install
    node app.js
@@ -57,7 +58,8 @@ A node server allows hot update logics/ data model / timer in runtime, using web
 
 1. Clone the repo
 
-2. ```shell
+2. Enter the repo directory
+   ```shell
    cd Server
    npm install
    node app.js
