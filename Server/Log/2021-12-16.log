@@ -1,0 +1,16 @@
+[2021-12-16T00:59:03.089] [DEBUG] 服务端主程序 - 服务器已开始运行
+[2021-12-16T00:59:03.594] [DEBUG] 文件监听 - 正在监听 ./Controller/，发生修改后会热更
+[2021-12-16T00:59:03.597] [DEBUG] 文件监听 - 正在监听 ./Model/，发生修改后会热更
+[2021-12-16T00:59:03.598] [DEBUG] 文件监听 - 正在监听 ./Util/tools.js，发生修改后会热更
+[2021-12-16T00:59:03.600] [INFO] 文件监听 - Util/tools.js发生更新: add
+[2021-12-16T00:59:03.648] [INFO] 文件监听 - Controller/controllers.js发生更新: add
+[2021-12-16T00:59:03.684] [INFO] 服务端主程序 - 方法heartbeat已热更
+[2021-12-16T00:59:03.685] [INFO] 文件监听 - Controller/gameController.js发生更新: add
+[2021-12-16T00:59:03.684] [INFO] 服务端主程序 - 方法req_player已热更
+[2021-12-16T00:59:03.717] [INFO] 文件监听 - Controller/loginController.js发生更新: add
+[2021-12-16T00:59:03.717] [INFO] 服务端主程序 - 方法heartbeat已热更
+[2021-12-16T00:59:03.752] [INFO] 文件监听 - Model/models.js发生更新: add
+[2021-12-16T00:59:03.717] [INFO] 服务端主程序 - 方法req_player已热更
+[2021-12-16T00:59:03.788] [INFO] 文件监听 - Model/player.js发生更新: add
+[2021-12-16T00:59:03.752] [INFO] 服务端主程序 - 方法heartbeat已热更
+[2021-12-16T00:59:03.752] [INFO] 服务端主程序 - 方法req_player已热更
